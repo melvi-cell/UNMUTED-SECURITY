@@ -1,0 +1,51 @@
+{
+  "name": "UNMUTED Super Admin",
+  "short_name": "SuperAdmin",
+  "description": "Complete admin control for UNMUTED Debate platform",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f59e0b",
+  "background_color": "#111827",
+  "icons": [
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://melvi-cell.github.io/UNMUTED-SECURITY/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
